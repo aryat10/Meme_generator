@@ -1,5 +1,9 @@
 # Meme_generator
 **Get ready for dose of laughter**
+
+
+
+
 Welcome to the React Meme Generator repository! This project leverages the power of React to create a dynamic and interactive meme generator. With seamless routing and API integration, this application allows users to easily generate and share hilarious memes.
 
 
