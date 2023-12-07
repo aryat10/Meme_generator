@@ -11,7 +11,7 @@ Welcome to the React Meme Generator repository! This project leverages the power
 
 
 
-<img align="right" alt="Coding" width="400" src= "[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://wallpapers-clan.com/wp-content/uploads/2022/08/meme-gif-pfp-7.gif)">
+<img align="right" alt="Coding" width="400" src= "[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://wallpapers-clan.com/wp-content/uploads/2022/08/meme-gif-pfp-7.gif)](https://wallpapers-clan.com/wp-content/uploads/2022/08/meme-gif-pfp-7.gif)">
 
 
 
