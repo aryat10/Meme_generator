@@ -11,6 +11,11 @@ Welcome to the React Meme Generator repository! This project leverages the power
 
 
 
+<img align="right" alt="Coding" width="400" src= "[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://wallpapers-clan.com/wp-content/uploads/2022/08/meme-gif-pfp-7.gif)">
+
+
+
+
 # Create React App [![Build & Test](https://github.com/facebook/create-react-app/actions/workflows/build-and-test.yml/badge.svg?branch=main)](https://github.com/facebook/create-react-app/actions/workflows/build-and-test.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
 
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
