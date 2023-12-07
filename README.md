@@ -20,7 +20,7 @@ Welcome to the React Meme Generator repository! This project leverages the power
 
 
 
-<img align="right" alt="Coding" width="400" src= "https://media1.tenor.com/m/beX7hfl-LHEAAAAd/indian-dance.gif">
+<img align="right" alt="Coding" width="200" src= "https://media1.tenor.com/m/beX7hfl-LHEAAAAd/indian-dance.gif">
 
 
 
