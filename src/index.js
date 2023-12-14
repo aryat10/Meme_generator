@@ -19,8 +19,4 @@ reportWebVitals();
 
 
 
-// data ? (
-//   data.map((e) => <PostCard title = {e.title} body = {e.body}/>) 
-//   ): (
-//   <p>No data</p>
-//   )
+
