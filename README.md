@@ -2,7 +2,8 @@
 
 
 
-![image](https://github.com/aryat10/Meme_generator/assets/107941072/2c074700-2641-4897-907c-dab2403d28a6)
+![image](https://github.com/aryat10/Meme_generator/assets/107941072/2c074700-2641-4897-907c-dab2403d28a6) ![image](https://github.com/aryat10/Meme_generator/assets/107941072/5192a6ae-a77d-43bb-9f76-9ee9a52f948c)
+
 
 
 
