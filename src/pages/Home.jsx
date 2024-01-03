@@ -9,7 +9,8 @@ const HomePage = () =>{
     })
     return(
         <div className="row">
-            {data.map((el)=>(
+            {
+                data.map((el)=>(
                 <MemeCard img={el.url} title={el.name} />
             ))}
         </div>
