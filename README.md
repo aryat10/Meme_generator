@@ -76,8 +76,8 @@ A shoutout to the creators of popular meme templates, which served as the base f
 ---
 
 ## 📝 Notes : 
-1. Responsive Design: The Meme Generator app is optimized for both desktop and mobile use, ensuring a smooth experience across devices.
-2. Customization: Users can adjust the positioning of their text, making each meme uniquely their own.
+- **Responsive Design: The Meme Generator app is optimized for both desktop and mobile use, ensuring a smooth experience across devices.
+- **Customization: Users can adjust the positioning of their text, making each meme uniquely their own.
 
 
 
