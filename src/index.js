@@ -8,9 +8,9 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-  <BrowserRouter>
-   <App />
-  </BrowserRouter>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
@@ -18,16 +18,3 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-
-
-
-
-// data ? (
-//   data.map((e) => <PostCard title = {e.title} body = {e.body}/>) 
-//   ): (
-//   <p>No data</p>
-<<<<<<< HEAD
-//   )
-=======
-//   )
->>>>>>> 1dabf6f8ae14e9119ea640d73fc9db37575863fd
