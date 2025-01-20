@@ -52,6 +52,7 @@ To install node modules
 ```bash
 npm install
 ```
+To run the project 
 ```bash
 npm start
 ```
