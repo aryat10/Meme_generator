@@ -61,12 +61,12 @@ npm start
 
 All contributions to this project! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request. Here’s how you can contribute:
 
---Fork the repository
---Create a new branch for your changes
---Commit your changes
---Push to your fork
---Open a pull request from your fork to this repository
---If you're new to open-source contributions, don't hesitate to open an issue to discuss your idea!
+1. Fork the repository
+2. Create a new branch for your changes
+3. Commit your changes
+4. Push to your fork
+5. Open a pull request from your fork to this repository
+6. If you're new to open-source contributions, don't hesitate to open an issue to discuss your idea!
 
 ---
 
