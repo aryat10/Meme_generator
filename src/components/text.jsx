@@ -18,4 +18,8 @@ const TextPage = () =>{
     )
 }
 
+<<<<<<< HEAD
 export default TextPage;
+=======
+export default TextPage;
+>>>>>>> 1dabf6f8ae14e9119ea640d73fc9db37575863fd

@@ -26,4 +26,8 @@ reportWebVitals();
 //   data.map((e) => <PostCard title = {e.title} body = {e.body}/>) 
 //   ): (
 //   <p>No data</p>
+<<<<<<< HEAD
 //   )
+=======
+//   )
+>>>>>>> 1dabf6f8ae14e9119ea640d73fc9db37575863fd
