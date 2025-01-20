@@ -58,7 +58,7 @@ npm start
 ---
 ## 🤝 Contributing : 
 
-I welcome contributions to this project! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request. Here’s how you can contribute:
+All contributions to this project! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request. Here’s how you can contribute:
 
 1. Fork the repository
 2. Create a new branch for your changes
@@ -67,7 +67,17 @@ I welcome contributions to this project! If you have ideas for improvements, bug
 5. Open a pull request from your fork to this repository
 6. If you're new to open-source contributions, don't hesitate to open an issue to discuss your idea!
 
+---
 
+## 🙏 Acknowledgments : 
+Special thanks to the community of open-source developers who make tools like React possible. Their contributions enable developers to build applications like this with ease.
+A shoutout to the creators of popular meme templates, which served as the base for the meme generation!
+
+---
+
+## 📝 Notes : 
+1. Responsive Design: The Meme Generator app is optimized for both desktop and mobile use, ensuring a smooth experience across devices.
+2. Customization: Users can adjust the positioning of their text, making each meme uniquely their own.
 
 
 
