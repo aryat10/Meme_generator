@@ -80,5 +80,13 @@ A shoutout to the creators of popular meme templates, which served as the base f
 - Responsive Design: The Meme Generator app is optimized for both desktop and mobile use, ensuring a smooth experience across devices.
 - Customization: Users can adjust the positioning of their text, making each meme uniquely their own.
 
+---
+
+## 📞 Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **GitHub**: [aryat/10](https://github.com/aryat10)
+- **Email**: srivastavatayra@gmail.com
 
 
