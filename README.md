@@ -13,7 +13,7 @@ Welcome to the **Meme Generator** project! This fun and interactive web app allo
 
 ---
 
-## 🎥 Demo
+## 🖥️ Demo
 
 You can try the Meme Generator app live on [this link](https://meme-generator-543w.vercel.app/).  
 *Have a look at some example memes created using the app:*
