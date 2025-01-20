@@ -1,0 +1,21 @@
+button{
+    margin: 5px;
+   padding: 5px;
+   background-image: linear-gradient(to right, #d3f02f 0%, #00a950 100%);
+   color: #f8f8f8;
+   display: block;
+  height: 50px;
+  font-size: 1.4em;
+  padding: 4px;
+  position: relative;
+  text-decoration: none;
+  width: 7em;
+  z-index: 2;
+  border-radius: 40px;
+  box-sizing: border-box;
+}
+
+.meme{
+  width: 700px;
+  border: 1px solid;
+}
