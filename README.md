@@ -48,7 +48,7 @@ cd Meme_generator
 
 ## 📤 Install the dependencies:
 
-To install node modules 
+To install node modules - 
 
 ---
 
