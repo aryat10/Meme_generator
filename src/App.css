@@ -3,17 +3,19 @@ h1 {
     margin-left: 14px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    color: seashell;
     margin-top: 5px;
 }
 
 p {
     text-align: center;
+    color: seashell;
 }
 
 .upper {
-    background-color: rgb(232, 223, 202);
+    background-color: rgb(14, 11, 4);
 }
 
 .App {
-    background-color: rgb(36, 120, 3);
+    background-color: #fff;
 }
