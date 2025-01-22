@@ -1,4 +1,4 @@
-# Meme Generator 🎉
+# 🎉 Meme Generator 
 
 Welcome to the **Meme Generator** project! This fun and interactive web app allows users to easily create and personalize memes by choosing an image and adding custom text. Whether you want to create a hilarious meme to share with friends or just have fun experimenting with different captions, this app makes it easy and enjoyable. 
 
