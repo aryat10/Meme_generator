@@ -34,6 +34,12 @@ This project is built using modern web technologies that allow it to run smoothl
 
 ---
 
+## 🎃 API used
+```bash
+https://api.imgflip.com/get_memes
+```
+---
+
 ## 💻 Installation
 
 To get started with this project locally, follow the steps below:
