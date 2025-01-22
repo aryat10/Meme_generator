@@ -32,7 +32,7 @@ This project is built using modern web technologies that allow it to run smoothl
 - **JavaScript**: Handles the interactivity, including the logic for generating memes and customizing text.
 - **HTML5**: For structuring the content and embedding images.
 
----
+
 
 ## 🎃 Memes API 
 ```bash
