@@ -93,7 +93,7 @@ A shoutout to the creators of popular meme templates, which served as the base f
 For any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [aryat/10](https://github.com/aryat10)
-- **Email**: srivastavatayra@gmail.com
+- **Email**:   srivastavatayra@gmail.com
 - **Linkedin**: https://www.linkedin.com/in/aryatsrivastavaweb/
 
 
