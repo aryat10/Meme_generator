@@ -27,7 +27,7 @@ You can try the Meme Generator app live on [this link](https://meme-generator-54
 
 This project is built using modern web technologies that allow it to run smoothly and provide an excellent user experience:
 
-- **React.js**: A powerful JavaScript library for building user interfaces. It allows for a dynamic and responsive frontend.
+- **React.js**: A powerful JavaScript library for user interfaces. It allows for a dynamic and responsive frontend.
 - **CSS**: Used to style the app and ensure it looks great. Flexbox and media queries are utilized for responsiveness.
 - **JavaScript**: Handles the interactivity, including the logic for generating memes and customizing text.
 - **HTML5**: For structuring the content and embedding images.
