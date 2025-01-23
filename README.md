@@ -94,5 +94,6 @@ For any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [aryat/10](https://github.com/aryat10)
 - **Email**: srivastavatayra@gmail.com
+- **Linkedin**: https://www.linkedin.com/in/aryatsrivastavaweb/
 
 
