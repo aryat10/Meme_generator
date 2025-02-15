@@ -35,7 +35,7 @@ This project is built using modern web technologies that allow it to run smoothl
 
 
 ## 🎃 Memes API 
-```javascript
+```bash
 https://api.imgflip.com/get_memes
 ```
 ---
